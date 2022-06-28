@@ -77,7 +77,7 @@
   
   
   
-![github contribution grid snake animation](https://raw.githubusercontent.com/milenamoraes/milenamoraes/output/github-contribution-grid-snake.gif)
+![github contribution grid snake animation](https://raw.githubusercontent.com/milenamoraes/milenamoraes/output/github-contribution-grid-snake.svg)
 
 
   
