@@ -77,8 +77,8 @@
   
   
   
-![github contribution grid snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
+![github contribution grid snake animation](https://raw.githubusercontent.com/milenamoraes/milenamoraes/output/github-contribution-grid-snake.gif)
 
 
   
-  ![Profile views](https://gpvc.arturio.dev/milenamoraes)# milenamoraes
+  ![Profile views](https://gpvc.arturio.dev/milenamoraes)
